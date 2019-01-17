@@ -1,4 +1,0 @@
-nua ha
-test register 3
-add test 2
-
