@@ -1,1 +1,1 @@
-test register
+test register 1
