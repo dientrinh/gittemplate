@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 te
-=======
-dsadsa
->>>>>>> ok
-=======
-te
->>>>>>> change text
